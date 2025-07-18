@@ -28,8 +28,11 @@ JavaScript – Cart counter and interactive behavior
 
 
 📁 Trendze-Ecommerce
+
 ├── index.html         # Homepage with product listings
+
 ├── style.css          # Styling for layout, header, products, etc.
+
 └── script.js          # JavaScript for cart counter functionality
 
 
@@ -38,10 +41,12 @@ http://127.0.0.1:3000/index.html
 
 
 📸 Screenshot
+
 <img width="1891" height="1084" alt="Image" src="https://github.com/user-attachments/assets/f4673eab-ae23-4b07-bbf7-efe77b2ca9d7" />
 
 
 📌 How to Use
+
 Clone or download this repository
 
 Open index.html in your browser
