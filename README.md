@@ -50,9 +50,3 @@ Browse products and click "Add to Cart"
 
 Observe the cart count updating in the header
 
-🧑‍💻 Author
-Sasank Kavali
-Feel free to connect with me on LinkedIn
-
-📄 License
-This project is licensed under the MIT License.
